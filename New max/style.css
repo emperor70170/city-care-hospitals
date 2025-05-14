@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+  }
+  
+  header {
+    background-color: #0275d8;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav ul {
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  nav ul li {
+    margin: 0 15px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .hero {
+    
+    text-align: left;
+    padding: 50px 20px;
+  }
+  .leo{
+    font-style: italic;
+    font-size: 30px;
+  }
+  .ill{
+    margin-left: 650px;
+  }
+  .lion{
+    font-size:20px ;
+  }
+  .img{
+    margin-left: 700px;
+  }
+ 
+  
+  .services {
+    padding: 40px 20px;
+    margin-top: -10px;
+    
+  }
+  
+  .services h2 {
+    margin-bottom: 20px;
+  }
+  
+  .service-item {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  
+  footer {
+    background-color: #0275d8;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
