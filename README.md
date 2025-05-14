@@ -1,2 +1,2 @@
-# city-care-hospitals
+# city-care-hospital
 website for hospitals
